@@ -78,7 +78,7 @@ d3.json('data/world.json', function(err, data) {
         var countryEvidence = {
 
 
-            "Nigeria": '<a data-flickr-embed="true"  href="https://www.flickr.com/photos/images-twiston/36795739976/in/explore-2017-09-02/" title="A tranquil dawn"><img src="https://farm5.staticflickr.com/4388/36795739976_28f48170e1_k.jpg" width="2048" height="1363" alt="A tranquil dawn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>',
+            "Nigeria": '"<img src=\"https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png\" alt=\"Open Document\" />"',
             "Egypt": '<a href="about:blank"> DOC </a>'
         };
         window.countryEvidence = countryEvidence;
